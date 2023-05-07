@@ -10,4 +10,4 @@ echo display_vertically($arr);
 ```
 
 ### Output
-![Vertical Calendar](/assets/images/vertical-calendar.jpg)
+![Vertical Calendar](/vertical-calendar.jpg)
